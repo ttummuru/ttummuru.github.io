@@ -1,0 +1,11 @@
+# main links links
+main:
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Fun"
+    url: /fun/
+
+#  - title: "CV"
+#    url: /cv/
