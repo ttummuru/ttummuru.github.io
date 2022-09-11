@@ -5,10 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-Interests
+Research Interests
 ======
 
-A good part of my work in grad school was focused on modelling and characterizing an exotic states called topological superconductors. For starters, a superconductor is material that, in addition to having other intriguing features, allows electric current to flow through without resistance. Since their discovery in 1911, a number of materials, including common place metals aluminium and lead, have been shown to become superconducting when cooled to very low temperatures. Over the past two decades, a special class of superconductors called topological superconductors have garnered academic interest because of their relevance for quantum computation. Building on recent experimental innovations, here we propose conceptually new ways to engineer topological states by assembling individual constituents in a specific manner, much like in a Lego. Collaborating with experimentalists has been an exciting aspect of the job.
+A good part of my work in grad school was focused on modelling and characterizing exotic states of matter called topological superconductors. For starters, a superconductor is material that, in addition to having other intriguing features, allows electric current to flow through without resistance. Since their discovery in 1911, a number of materials, including common place metals aluminium and lead, have been shown to become superconducting when cooled to very low temperatures. Over the past two decades, a special class of superconductors called topological superconductors have garnered academic interest because of their relevance for quantum computation. Building on recent experimental innovations, we proposed conceptually new ways to engineer topological states by assembling individual constituents in a specific manner, much like in a Lego. Collaborating with experimentalists has been an exciting aspect of the job.
 
 Publications
 ======
@@ -40,7 +40,7 @@ W Yang, A Nocera, T Tummuru, H-Y Kee and I Affleck, [Physical Review Letters 124
 T Tummuru, S Jain and A Khare, [Physics Letters A 381, 47 (2017)](https://doi.org/10.1016/j.physleta.2017.10.007) [arXiv](https://arxiv.org/abs/1609.07928)
 
 * ‘Branched Hamiltonians for a class of velocity dependent potentials’ \
-B Bagchi, S Kamil, T Tummuru, I Semoradova and M Znojil, [Journal of Physics: Conference Series 839, 012011 (2017)](http://iopscience.iop.org/article/10.1088/1742-6596/839/1/012011) [arXiv](https://arxiv.org/abs/1701.02280)
+B Bagchi, S Kamil, T Tummuru, I Semoradova and M Znojil, [Journal of Physics: Conf. Series 839, 012011 (2017)](http://iopscience.iop.org/article/10.1088/1742-6596/839/1/012011) [arXiv](https://arxiv.org/abs/1701.02280)
 
 
 <!---

@@ -14,7 +14,7 @@ Top picks from the past year (latest first):
 Silent Spring by Rachel Carson; The Immortal Life of Henrietta Lacks by Rebecca Skloot; Foundation series by Isaac Asimov; The Beast by Oscar Martinez; The Design of Everyday Things by Don Norman; The Sixth Extinction by Elizabeth Kolbert.
 
 
-Outdoors
+Mountains
 ======
 
 <!---
@@ -34,10 +34,5 @@ Art
 Languages
 ======
 * నేను హైదరాబాద్‌లో పుట్టి పెరిగాను.
-* मैं दिल्ली में कॉलेज गया था।
+* मैंने अपनी कॉलेज की पढ़ाई दिल्ली में की थी।
 * 지금 저는 밴쿠버에 있어요. 천천히 한국어를 배우고 있어요.
-
-
-<!---
-  मैंने स्कूल में हिंदी पढ़ी थी और
---->
