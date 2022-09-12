@@ -26,7 +26,7 @@ Mountains
 | *Nag Tibba, Lesser Himalayas* | *Elfin lakes* | *Schottensee, Pizol* | *Stellisee, Zermatt* |
 
 
-Art
+Sketches
 ======
 ![Hands](/images/art-hands.jpeg){:width="220"} ![Rabbit](/images/art-rabbit.jpeg){:width="220"} ![Lips](/images/art-lips.jpeg){:width="220"} ![Eye](/images/art-eye.JPG){:width="220"}
 
