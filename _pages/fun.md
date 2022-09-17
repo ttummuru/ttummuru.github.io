@@ -27,7 +27,8 @@ Mountains
 | *Nag Tibba, Lesser Himalayas* | *Elfin lakes* | *Schottensee, Pizol* | *Stellisee, Zermatt* |
 --->
 
-![Nag Tibba](/images/adv-Nag_Tibba2.jpeg){:width="220"} ![Elfin](/images/adv-elfin.jpeg){:width="220"} ![Pizol](/images/adv-Pizol.jpeg){:width="160"} ![Zermatt](/images/adv-Stellisee_Zermatt.jpeg){:width="160"}
+![Nag Tibba](/images/adv-Nag_Tibba2.jpeg){:width="220"} ![Elfin](/images/adv-elfin.jpeg){:width="220"} ![Pizol](/images/adv-Pizol.jpeg){:width="160"} ![Zermatt](/images/adv-Stellisee_Zermatt.jpeg){:width="150"}
+
 Nag Tibba, Lesser Himalayas; Elfin lakes; Schottensee, Pizol; Stellisee, Zermatt
 
 Sketches
