@@ -34,7 +34,7 @@ T Tummuru, O Can and M Franz, [Physical Review B 103, L100501 (2021)](https://jo
 T Tummuru, A Nocera and I Affleck, [Physical Review B 103, 115128 (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.115128) [[arXiv]](https://arxiv.org/abs/2008.09963)
 
 * ‘Phase diagram of the spin-1/2 Kitaev- Gamma chain and emergent SU(2) symmetry’ \
-W Yang, A Nocera, T Tummuru, H-Y Kee and I Affleck, [Physical Review Letters 124, 147205 (2020)](https://arxiv.org/abs/1910.14304}{Physical Review Letters 124, 147205 (2020)) [[arXiv]](https://arxiv.org/abs/1910.14304)
+W Yang, A Nocera, T Tummuru, H-Y Kee and I Affleck, [Physical Review Letters 124, 147205 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.147205) [[arXiv]](https://arxiv.org/abs/1910.14304)
 
 * ‘Truncated Calogero-Sutherland models on a circle’ \
 T Tummuru, S Jain and A Khare, [Physics Letters A 381, 47 (2017)](https://doi.org/10.1016/j.physleta.2017.10.007) [[arXiv]](https://arxiv.org/abs/1609.07928)
