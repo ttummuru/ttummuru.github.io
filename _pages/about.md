@@ -20,7 +20,7 @@ Education
 ======
 * Ph.D. in Physics, University of British Columbia, 2023 (expected)
   * Advisor: Marcel Franz
-  * Visiting student in the group of Titus Neupert, University of Zurich (2022)
+  * Visiting researcher in the group of Titus Neupert, University of Zurich (2022)
 * M.Sc. in Physics, University of British Columbia, 2019
   * Advisor: Ian Affleck
 * B.Sc. in Physics, Shiv Nadar University, 2017
