@@ -18,17 +18,17 @@ You can find my publications on [arXiv](https://arxiv.org/search/?query=Tarun+Tu
 
 Education
 ======
-* Post-doctoral fellow, University of Zurich
-  * Mentor: Titus Neupert
-* Ph.D. in Physics, University of British Columbia, Feb 2023 
+* Ph.D. in Physics, University of British Columbia, 2023 
   * Advisor: Marcel Franz
+  * Visiting researcher in the group of Titus Neupert, University of Zurich (2022)
 * M.Sc. in Physics, University of British Columbia, 2019
   * Advisor: Ian Affleck
 * B.Sc. in Physics, Shiv Nadar University, 2017
 
 <!---
 
-  * Visiting researcher in the group of Titus Neupert, University of Zurich (2022)
+* Post-doctoral fellow, University of Zurich
+  * Mentor: Titus Neupert
 
 Skills
 ======
