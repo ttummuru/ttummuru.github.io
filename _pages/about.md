@@ -11,21 +11,24 @@ redirect_from:
 Hello there!
 ======
 
-I am a graduate student at the [Quantum Matter Institute](https://qmi.ubc.ca), University of British Columbia, working on theoretical condensed matter physics. My research focuses on correlated materials, topological phases and their experimental signatures. We identify systems with novel properties, construct models and then employ mathematical tools in conjunction with numerical algorithms to simulate the physics. In one line of work, for instance, we proposed structures that exhibit topological superconductivity at high temperatures. [Here's](https://ttummuru.github.io/research/) a brief summary.
+I am a post-doc at the Univeristy of Zurich. I obtained a PhD in theoretical condensed matter physics from the [Quantum Matter Institute](https://qmi.ubc.ca), University of British Columbia. My research focuses on correlated materials, hyperbolic lattice models, topological phases and their experimental signatures. We identify systems with novel properties, construct models and then employ mathematical tools in conjunction with numerical algorithms to simulate the physics. In one line of work, for instance, we proposed structures that exhibit topological superconductivity at high temperatures. [Here's](https://ttummuru.github.io/research/) a brief summary.
 
 You can find my publications on [arXiv](https://arxiv.org/search/?query=Tarun+Tummuru&searchtype=author&abstracts=show&order=-announced_date_first&size=50&date-date_type=submitted_date) and [Google Scholar](https://scholar.google.ca/citations?hl=en&user=WG2IsFYAAAAJ).
 
 
 Education
 ======
-* Ph.D. in Physics, University of British Columbia, 2023 (expected)
+* Post-doctoral fellow, University of Zurich
+  * Mentor: Titus Neupert
+* Ph.D. in Physics, University of British Columbia, Feb 2023 
   * Advisor: Marcel Franz
-  * Visiting researcher in the group of Titus Neupert, University of Zurich (2022)
 * M.Sc. in Physics, University of British Columbia, 2019
   * Advisor: Ian Affleck
 * B.Sc. in Physics, Shiv Nadar University, 2017
 
 <!---
+
+  * Visiting researcher in the group of Titus Neupert, University of Zurich (2022)
 
 Skills
 ======
