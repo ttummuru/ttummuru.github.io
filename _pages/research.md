@@ -14,7 +14,7 @@ Publications
 ======
 
 * ‘Hyperbolic non-Abelian semimetal’ \
-T Tummuru, A Chen, PM Lenggenhager, T Neupert, J Maciejko, T Bzdu\v{s}ek, [[arXiv]](https://arxiv.org/abs/2307.09876)
+T Tummuru, A Chen, PM Lenggenhager, T Neupert, J Maciejko, T Bzdušek, [[arXiv]](https://arxiv.org/abs/2307.09876)
 
 * ‘Josephson diode effects in twisted nodal superconductors’ \
 PA Volkov, E Lantagne-Hurtubise, T Tummuru, JH Pixley, S Plugge, M Franz, [[arXiv]](https://arxiv.org/abs/2307.01261)
