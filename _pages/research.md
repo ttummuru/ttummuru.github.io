@@ -12,6 +12,13 @@ A good part of my work in grad school was focused on modelling and characterizin
 
 Publications
 ======
+
+* ‘Hyperbolic non-Abelian semimetal’ \
+T Tummuru, A Chen, PM Lenggenhager, T Neupert, J Maciejko, T Bzdu\v{s}ek, [[arXiv]](https://arxiv.org/abs/2307.09876)
+
+* ‘Josephson diode effects in twisted nodal superconductors’ \
+PA Volkov, E Lantagne-Hurtubise, T Tummuru, JH Pixley, S Plugge, M Franz, [[arXiv]](https://arxiv.org/abs/2307.01261)
+
 * ‘Incoherent tunneling and topological superconductivity in twisted cuprate bilayers’ \
 R Haenel, T Tummuru and M Franz, [Physical Review B 106, 104505 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.104505) [[arXiv]](https://arxiv.org/abs/2207.03011)
 
